@@ -1,0 +1,3 @@
+ls = sorted([36, 5, -10], key=abs)
+
+print(ls)
